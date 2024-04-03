@@ -1,0 +1,20 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	PANTHER version 18.0 Released 2023-08-01
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+PANTHER Pathways	Homo sapiens - REFLIST (20592)	upload_1 (1591)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+Insulin/IGF pathway-mitogen activated protein kinase kinase/MAP kinase cascade (P00032)	32	10	2.47	+	4.04	6.17E-04	1.66E-02
+Insulin/IGF pathway-protein kinase B signaling cascade (P00033)	38	10	2.94	+	3.41	1.85E-03	3.73E-02
+PDGF signaling pathway (P00047)	147	31	11.36	+	2.73	5.25E-06	2.82E-04
+Alzheimer disease-amyloid secretase pathway (P00003)	67	14	5.18	+	2.70	1.74E-03	4.01E-02
+Integrin signalling pathway (P00034)	191	37	14.76	+	2.51	3.21E-06	2.59E-04
+Gonadotropin-releasing hormone receptor pathway (P06664)	229	38	17.69	+	2.15	5.97E-05	2.40E-03
+Wnt signaling pathway (P00057)	309	45	23.87	+	1.88	1.66E-04	5.34E-03
+Unclassified (UNCLASSIFIED)	17995	1280	1390.35	-	.92	7.36E-14	1.19E-11
