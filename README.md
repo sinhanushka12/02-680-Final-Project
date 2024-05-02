@@ -1,4 +1,5 @@
-# 02-680-Final-Project
+# Benchmarking state-of-the-art Unsupervised Learning Methods for multi-omics data
+
 Final Project for the course 02-718 Computational Medicine at CMU 
 
 Collaborators: Jen Wong, Shamieraah Jamal, and Anushka Sinha
